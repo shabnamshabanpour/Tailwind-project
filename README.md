@@ -1,5 +1,5 @@
 # Tailwind-project
-**If you have a lot of information to display on your site, why don't you use my accordion menu**
+**This is a tailwind project**
 
 🌐[Demo Project](https://shabnamshabanpour.github.io/Tailwind-project/)
 
@@ -12,6 +12,8 @@
 🕓 Date - 2025-11-28
 
 🔍 Technologies Used - Html , css , Tailwind
+
+
 
 
 🔗How to reach me : with my 📸[instagram](https://www.instagram.com/shabnamshabanpour.dev/?hl=en) and 💼[linkedin](https://www.linkedin.com/in/shabnam-shabanpour-15786671/)
