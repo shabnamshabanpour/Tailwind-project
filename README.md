@@ -5,7 +5,7 @@
 
 
 
-<img width="938" height="449" alt="Image" src="https://github.com/user-attachments/assets/f014da0a-3c0d-4e41-a580-538e26285853" />
+<img width="563" height="270" alt="Image" src="https://github.com/user-attachments/assets/8c968ad4-8c07-4005-9da6-bfb090e0fdc4" />
 
 💻 Developed by shabnam shabanpour
 
