@@ -13,6 +13,8 @@
 
 🔍 Technologies Used - Html , css , Tailwind
 
+👨‍💻 project master: @parsa_ghorbanian_web
+
 
 
 
