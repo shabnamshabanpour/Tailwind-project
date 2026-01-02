@@ -3,7 +3,7 @@
 
 🌐[Demo Project](https://shabnamshabanpour.github.io/Tailwind-project/)
 
-![view](https://github.com/user-attachments/assets/46ddddc3-342e-412d-8c03-750c33654382)
+![view](<img width="938" height="449" alt="Image" src="https://github.com/user-attachments/assets/f014da0a-3c0d-4e41-a580-538e26285853" />)
 
 💻 Developed by shabnam shabanpour
 
