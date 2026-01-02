@@ -1,0 +1,47 @@
+@import "tailwindcss";
+
+@layer base{
+    body{
+        font-family: 'parsa';
+    }
+    h1,h2,h3,h4,h5{
+        font-family: 'ChakraPetch-Bold';
+    }
+    @font-face {
+        font-family: parsa;
+        src: url(../font/ChakraPetch-Regular.ttf);
+    }
+    @font-face {
+        font-family: ChakraPetch-Bold;
+        src: url(../font/ChakraPetch-Bold.ttf);
+    }
+}
+
+@layer components{
+    .btnRed{
+        @apply w-fit h-[50px] rounded-[50px] px-[15px] flex items-center bg-red-800 text-white gap-2.5 uppercase hover:bg-blue-950 hover:border hover:-translate-y-2 hover:border-white duration-500;
+    }
+
+    .underlineMenuLink{
+        @apply opacity-0 absolute bottom-0 left-0 flex justify-between w-full h-[5px] -skew-x-[25deg] before:content-[''] before:flex before:w-[75%] before:h-full before:bg-white after:content-[''] after:flex after:w-[20%] after:h-full after:bg-red-800;
+    }
+}
+
+@layer utilities{
+    .row{
+        @apply flex flex-wrap w-full
+    }
+}
+
+@theme{
+    --animate-wiggle: wiggle 3s ease-in-out infinite;
+    @keyframes wiggle {
+       0%,
+       100%{
+        transform: translateY(0)
+       }
+       50%{
+        transform: translateY(10px)
+       }
+    }
+}
